@@ -99,6 +99,8 @@ Because revenue is highly concentrated, the company should invest in promoting m
 
 ## 📊 Dashboard
 
+<img width="635" alt="Dashboard_Chinook" src="https://github.com/user-attachments/assets/5e22afab-51a2-4e97-84b3-f13569206b48">
+
 An interactive dashboard was created in Looker Studio to visualize:
 
 * Revenue by country.
@@ -107,8 +109,7 @@ An interactive dashboard was created in Looker Studio to visualize:
 * Genre popularity.
 * Key business KPIs.
 
-Dashboard link: *(Add your Looker Studio link here)*
-
+Dashboard link: [View Interactive Dashboard](https://datastudio.google.com/s/s1fRbK8Xr70)
 ---
 
 ## ⚠️ Limitations
