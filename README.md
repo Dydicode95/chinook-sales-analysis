@@ -4,11 +4,27 @@
 
 This project aims to identify the main revenue drivers of a digital music retailer through SQL analysis and interactive dashboards.
 
+## 📌 Project Summary
+
+- 275 artists analyzed
+- 59 customers analyzed
+- 24 countries represented
+- 7 business questions answered
+
 ## Dataset
 
 The Chinook database represents a digital music retailer similar to the former iTunes Store. It includes data related to artists, albums, tracks, customers, employees, and sales transactions.
 
 Widely used as a learning dataset for SQL and analytics, Chinook provides a realistic business scenario for exploring customer purchasing behavior, revenue drivers, and overall business performance.
+
+## 🗄️ Database Schema
+
+The Chinook database is organized around sales transactions, customers, artists, albums, tracks, and music genres.
+
+The diagram below illustrates the relationships between the main tables used throughout the analysis.
+
+<img width="897" height="878" alt="Database_Schema" src="https://github.com/user-attachments/assets/63f7bdcc-17cc-41e3-a010-4813f920acfc" />
+
 
 ## Business Questions
 
@@ -20,8 +36,20 @@ Widely used as a learning dataset for SQL and analytics, Chinook provides a real
 ## 🛠️ Tools Used
 
 - SQL (SQLite)
-- Python ( Pandas, Jupyter Notebook )
+- Python (Pandas, Jupyter Notebook )
 - Looker Studio
+
+## 📝 SQL Queries
+
+The SQL queries used throughout this analysis are available in the repository:
+
+- 01_top_artists.sql
+- 02_sales_agents.sql
+- 03_top_customers.sql
+- 04_revenue_by_country.sql
+- 05_top_genres.sql
+- 06_customers_by_country.sql
+- 07_average_spending.sql
 
 ## 📊 Analysis Performed
 
